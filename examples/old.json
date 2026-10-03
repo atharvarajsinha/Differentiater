@@ -1,0 +1,6 @@
+{
+  "name": "differentiater",
+  "version": "0.9.0",
+  "debug": true,
+  "features": ["line-diff", "char-diff"]
+}

@@ -1,0 +1,10 @@
+Shopping list
+=============
+apples
+bread
+milk
+eggs
+
+Notes:
+Buy everything before Friday.
+नमस्ते

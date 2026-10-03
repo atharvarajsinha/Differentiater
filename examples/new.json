@@ -1,0 +1,6 @@
+{
+  "name": "differentiater",
+  "version": "1.0.0",
+  "features": ["line-diff", "char-diff", "notebooks"],
+  "license": "MIT"
+}
